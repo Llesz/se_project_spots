@@ -24,4 +24,6 @@ Whether you’re taking your first steps into a new hobby or looking to deepen y
 
 ## Deployment
 
-This webpage is deployed to GitHub Pages
+https://github.com/Llesz/se_project_spots.git
+
+[View Project Video](https://drive.google.com/file/d/1CZoBKJb8jyHgJ1zynBuv7t6ISW_lTr6z/view?usp=sharing)

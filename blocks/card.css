@@ -44,12 +44,16 @@
   cursor: pointer;
 }
 
-.card__like-button {
-  width: 20px;
-  height: 18px;
-}
-
 @media screen and (max-width: 627px) {
+  .card__title {
+    font-size: 16px;
+  }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
+  }
+
   .card__image {
     height: 288px;
   }
