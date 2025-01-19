@@ -23,7 +23,7 @@
   font-family: "Poppins", "Arial", "Helvetica", sans-serif;
   font-weight: 500;
   font-size: 32px;
-  line-height: 1.2;
+  line-height: 1;
   color: #212121;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -116,6 +116,11 @@
   }
 
   .profile__add-btn {
+    width: 100%;
     margin: 0;
+  }
+
+  .profile__edit-btn {
+    justify-content: center;
   }
 }
